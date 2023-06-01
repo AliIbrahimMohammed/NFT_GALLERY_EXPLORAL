@@ -1,35 +1,62 @@
+# NFT Gallery
+
+## Description
+
+This project is an NFT gallery that allows users to showcase and explore their digital assets. It provides a visually appealing interface where users can browse through a collection of NFTs. The gallery is built using NEXT JS and Chakra UI, making it responsive, fast, and user-friendly.
+
+## Features
+
+- NFT Display: The gallery showcases a collection of NFTs, including both images and associated details.
+
+- Image Navigation: Users can click on any image to navigate to the details page for that specific NFT. This enables a deeper exploration of each NFT and provides comprehensive information about its attributes.
+
+- Responsive Design: The site is designed to be responsive, ensuring a seamless browsing experience across different devices and screen sizes.
+
+## Technologies Used
+
+- NEXT JS: The project is built using NEXT JS, a popular React framework for building server-rendered applications.
+
+- Chakra UI: Chakra UI is used as the component library for designing the user interface of the NFT gallery. It provides a set of customizable and accessible UI components.
+
+- JavaScript: JavaScript is the primary programming language used for the implementation of the project's logic and interactivity.
+
 ## Getting Started
 
-Create a project using this example:
+To run the NFT gallery locally, follow these steps:
 
-```bash
-npx thirdweb create --template next-javascript-starter
-```
+1. Clone the repository: `git clone https://github.com/your-username/nft-gallery.git`
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+2. Navigate to the project directory: `cd nft-gallery`
 
-On `pages/_app.js`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
+3. Install dependencies: `yarn install`
 
-### Deploy to IPFS
+4. Start the development server: `yarn dev`
 
-Deploy a copy of your application to IPFS using the following command:
+5. Open your preferred web browser and visit `http://localhost:3000` to access the NFT gallery.
 
-```bash
-yarn deploy
-```
+## Contribution Guidelines
 
-## Learn More
+Contributions to this project are welcome. If you would like to contribute, please follow these guidelines:
 
-To learn more about thirdweb and Next.js, take a look at the following resources:
+1. Fork the repository.
 
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb JavaScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com/react) - check our guides and development resources.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name` or `git checkout -b bugfix/your-bug-name`
 
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
+3. Implement your changes and ensure they adhere to the project's coding style and best practices.
 
-## Join our Discord!
+4. Test your changes thoroughly.
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+5. Commit and push your changes to your forked repository.
+
+6. Submit a pull request, detailing the changes you made and their purpose.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it according to the terms of the license.
+
+## Contact
+
+If you have any questions or feedback regarding this project, please feel free to reach out to me at [wekaali4355@gmail.com].
+Your input is highly appreciated.
+
+Thank you for your interest in the NFT Gallery project. Happy showcasing and exploring your NFT collection!
