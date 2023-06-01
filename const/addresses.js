@@ -1,0 +1,1 @@
+export const NFT_CONTRACT_ADDRESS = "0x306b1ea3ecdf94aB739F1910bbda052Ed4A9f949";
